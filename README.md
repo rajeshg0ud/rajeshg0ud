@@ -27,8 +27,6 @@
 ## 📊 GitHub Stats:
 ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshg0ud&show_icons=true&theme=radical)
 
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ## 📁 Key Projects
 - **[E-commerce Application](https://github.com/rajeshg0ud/ecommerce-app)**: Designed and developed a cutting-edge e-commerce application using ReactJS, incorporating Babel, Webpack, NPM, JSON, REST APIs & Redux.
