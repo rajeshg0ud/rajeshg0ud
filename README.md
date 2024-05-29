@@ -35,3 +35,4 @@
 - **[Responsive Portfolio Website](https://rajeshg0ud.github.io/portfolioO/)**: Crafted a captivating responsive portfolio website showcasing 7 user interface projects, integrating HTML5, CSS3, & JavaScript.
 - **[Online Food Ordering App](https://github.com/rajeshg0ud/online-food-ordering-app)**: Developed a user-centric React application featuring a 2-page structure (Home, Cart) to facilitate seamless food ordering.
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rajeshg0ud.rajeshg0ud)
