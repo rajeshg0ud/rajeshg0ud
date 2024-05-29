@@ -30,7 +30,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ## 📁 Key Projects
-- **[Online Food Ordering App](https://github.com/rajeshg0ud/online-food-ordering-app)**: Developed a user-centric React application featuring a 2-page structure (Home, Cart) to facilitate seamless food ordering.
 - **[E-commerce Application](https://github.com/rajeshg0ud/ecommerce-app)**: Designed and developed a cutting-edge e-commerce application using ReactJS, incorporating Babel, Webpack, NPM, JSON, REST APIs & Redux.
 - **[Responsive Portfolio Website](https://rajeshg0ud.github.io/portfolioO/)**: Crafted a captivating responsive portfolio website showcasing 7 user interface projects, integrating HTML5, CSS3, & JavaScript.
+- **[Online Food Ordering App](https://github.com/rajeshg0ud/online-food-ordering-app)**: Developed a user-centric React application featuring a 2-page structure (Home, Cart) to facilitate seamless food ordering.
 
