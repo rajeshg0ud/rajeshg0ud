@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshbudidi) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/rajeshg0ud) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=google-chrome&logoColor=white)](https://rajeshg0ud.github.io/portfolioO/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tenacious_developer/)/
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tenacious_developer/)
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
