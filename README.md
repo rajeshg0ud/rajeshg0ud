@@ -3,7 +3,7 @@
 👀 I’m interested in front-end & full-stack development.  
 🌱 I’m currently enhancing my skills in Node.js.  
 💞️ I’m looking to collaborate on innovative web development projects.  
-📫 How to reach me: You can reach me via email at budidirajeshgoud@gmail.com.  
+📫 How to reach me: You can reach me via email at budidirajeshgoud@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshbudidi) 
