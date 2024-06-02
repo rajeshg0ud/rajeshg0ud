@@ -4,7 +4,6 @@
 🌱 I’m currently enhancing my skills in Node.js.  
 💞️ I’m looking to collaborate on innovative web development projects.  
 📫 How to reach me: You can reach me via email at budidirajeshgoud@gmail.com.  
-😄 Pronouns: He/Him  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshbudidi) 
