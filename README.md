@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m Rajesh Goud Budidi  
+# 👋 Hi, I’m Rajesh Goud Budidi  
 👀 I’m interested in front-end & full-stack development.  
 🌱 I’m currently enhancing my skills in Node.js.  
 💞️ I’m looking to collaborate on innovative web development projects.  
